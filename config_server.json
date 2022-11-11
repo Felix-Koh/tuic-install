@@ -1,5 +1,5 @@
 {
-    "port": 16385,
+    "port": 12138,
     "token": ["gmznb"],
     "certificate": "/root/fullchain.cer",
     "private_key": "/root/private.key",
