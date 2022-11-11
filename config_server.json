@@ -1,6 +1,6 @@
 {
     "port": 16385,
-    "token": ["chika"],
+    "token": ["gmznb"],
     "certificate": "/root/fullchain.cer",
     "private_key": "/root/private.key",
     "ip": "::",
