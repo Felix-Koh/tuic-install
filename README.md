@@ -10,7 +10,7 @@ curl -Lo /root/tuic https://github.com/EAimTY/tuic/releases/download/0.8.4/tuic-
 2. 下载配置(Download config)
 
 ```
-curl -Lo /root/tuic_config.json https://raw.githubusercontent.com/chika0801/tuic-install/main/config_server.json
+curl -Lo /root/tuic_config.json https://raw.githubusercontent.com/Felix-Koh/tuic-install/main/config_server.json
 ```
 
 3. 下载systemctl配置(Download systemctl config)
